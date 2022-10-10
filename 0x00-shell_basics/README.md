@@ -1,1 +1,1 @@
-shell basics readmefile 
+#!/bin/bash
